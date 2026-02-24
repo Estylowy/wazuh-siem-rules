@@ -1,6 +1,8 @@
 # 🛡️ Wazuh SIEM — Custom Detection Rules
 
-**Author:** Mateusz Rusnak  
+**Author:** [Mateusz Rusnak](https://mateuszrusnak.pl) — Network & Security Specialist | QA Automation Engineer  
+**Website:** [mateuszrusnak.pl](https://mateuszrusnak.pl)  
+**LinkedIn:** [linkedin.com/in/mateuszrusnak](https://www.linkedin.com/in/mateuszrusnak/)  
 **Stack:** Wazuh 4.7+, Python 3.12, MITRE ATT&CK  
 **Status:** Production-ready rules, lab-tested
 
